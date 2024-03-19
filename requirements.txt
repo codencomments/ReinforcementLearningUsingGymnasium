@@ -1,0 +1,5 @@
+numpy
+jupyter
+gymnasium[all]
+matplotlib
+opencv-python
